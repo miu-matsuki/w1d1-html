@@ -1,0 +1,36 @@
+*{
+  text-align: center;
+}
+
+body{
+  background-color:snow;
+  background-image: url(..//flying-penguin.JPG);
+  background-size: cover;
+  /* background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), 
+    url('..//flying-penguin.JPG'); */
+  background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  font-family: "Finger Paint", sans-serif;
+}
+h1{
+  color: aliceblue;
+  padding: 10px;
+  
+}
+button{
+  margin: 15px;
+}
+
+main{
+  padding: 5px;
+  
+}
+
+div{
+  /* background-color: azure; */
+  padding: 10px;
+}
+
+#contact{
+  background-color:rgba(186, 253, 231, 0.461);
+}
